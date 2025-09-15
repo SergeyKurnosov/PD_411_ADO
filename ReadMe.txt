@@ -1,4 +1,7 @@
-﻿TODO:
+﻿https://github.com/okovtun/PD_411_ADO.git
+https://www.youtube.com/playlist?list=PLeqyOOqxeiIM_60jGVxnOdAWtEV_sP2qX
+
+TODO:
 1. Вынести код для вставки значений в таблицу в функцию 'Insert()';
 2. Почитать про параметризованные запросы;
 3. Написать параметризованный запрос для выборки данных;
